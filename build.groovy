@@ -33,7 +33,7 @@ programName = "kairos-carbon"
 //Do not use '-' in version string, it breaks rpm uninstall.
 version = "1.2-coreye"
 kairos_version = "1.1.1"
-release = "1" //package release number
+release = "2" //package release number
 summary = "Kairos-carbon"
 description = """\
 Plugin for KairosDB ($kairos_version) that provides Carbon protocol listeners and a client
